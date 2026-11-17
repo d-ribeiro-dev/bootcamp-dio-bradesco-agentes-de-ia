@@ -1,0 +1,175 @@
+# Prática - 03 — Agentes de IA #
+
+**Ferramenta utilizada:** Google Antigravity.
+
+**Objetivo:** utilizar um agente para transformar o plano de estudos em um workspace organizado no computador.
+
+**O que fiz:**
+
+>Criei a pasta do projeto no computador.
+
+>Baixei o Antigravity  https://antigravity.google/auth-success?app=antigravity e abri ele dentro dela
+
+>Abri o projeto no Antigravity.
+
+>Preparei a estrutura de diretórios para organizar as atividades.
+
+>Baixei o plano de estudos em PDF e abri na pasta do workspace.
+
+>Dei o comando: 
+---
+[Segue o plano de estudos que escrevi com a ajuda de um copiloto:
+]
+---
+
+Materialize esse plano nesta pasta criando:
+
+1. README.md com o resumo do plano
+2. cronograma.md com o roteiro semanal (semanas 1 a 4)
+3. uma pasta "anotacoes" com um modelo "semana-01.md" para eu duplicar
+4. recursos.md com os materiais separados por semana
+
+Antes de criar, me explique brevemente sua estrutura. Depois execute.
+
+Aprendizado: percebi a importância de organizar o contexto e os arquivos que serão utilizados pelo agente. Também tive contato com o funcionamento de um ambiente de trabalho assistido por IA.
+
+Situação: preparação do workspace realizada. Ainda é necessário validar a leitura do plano pelo agente e acompanhar a execução da tarefa proposta pela DIO.
+
+# 🚀 Plano de estudos: Suporte a Aplicações e Sucesso do Cliente em SaaS
+### 🗓️ Uma jornada de 30 dias
+
+> 💡 **Meu objetivo**
+>
+> Em 30 dias, construir uma base prática para atuar em Suporte a Aplicações e Sucesso do Cliente em SaaS: reconhecer problemas comuns de hardware, Windows/Linux e conectividade; fazer triagem inicial de chamados; comunicar próximos passos sem jargões; proteger dados; e acompanhar o cliente até confirmar que conseguiu atingir o resultado esperado.
+
+---
+
+## ⏱️ Meu ritmo de estudos
+
+**45–60 minutos por dia**, divididos em três momentos:
+
+| Atividade | Tempo |
+|---|---:|
+| 📚 Conteúdo | 25–35 min |
+| 💻 Prática | 15–20 min |
+| 📝 Anotações | 5 min |
+
+🔒 **Cuidados importantes:** faça os exercícios em dispositivo ou ambiente próprio, sem alterar sistemas de produção e sem registrar senhas, tokens ou dados pessoais de clientes.
+
+---
+
+# 🗺️ Cronograma de estudos
+
+## 🖥️ Semana 1 — Hardware e sistemas operacionais
+<sub>📅 Dias 1 a 7</sub>
+
+**Objetivo:** conhecer os componentes de um computador e entender o funcionamento básico dos sistemas operacionais.
+
+- [ ] **Dia 1:** Componentes do PC: CPU, placa-mãe, RAM, SSD/HDD. Desenhar como se relacionam.
+- [ ] **Dia 2:** Sintomas de falha ou lentidão: distinguir memória, armazenamento, temperatura e aplicativo. Praticar um checklist de observação segura.
+- [ ] **Dia 3:** Windows: contas, atualizações, configurações, Gerenciador de Tarefas e Gerenciador de Dispositivos.
+- [ ] **Dia 4:** Windows: investigar problemas simples de inicialização, espaço em disco e aplicativos. Anotar evidências antes de sugerir uma ação.
+- [ ] **Dia 5:** Linux: arquivos e diretórios, terminal, usuários, permissões e processos.
+- [ ] **Dia 6:** Comparar tarefas equivalentes no Windows e Linux. Praticar explicações em linguagem simples.
+- [ ] **Dia 7:** Revisão leve: mapa dos componentes + glossário de 10 termos. Registrar o que ainda causa dúvidas.
+
+### 🔎 Materiais e referências
+
+1. **DIO:** pesquisar por `hardware`, `Windows` e `Linux`. O endereço enviado usa o termo `sass`; trocar para `SaaS` ao buscar conteúdo da área.
+2. **DIO:** curso Linux Fundamentals, para reforçar o sistema usado em servidores e aplicações.
+3. **IFSul — gratuito:** curso de Manutenção de Computadores, com conceitos e montagem/configuração de componentes.
+
+---
+
+## 🌐 Semana 2 — Redes e segurança da informação
+<sub>📅 Dias 8 a 14</sub>
+
+**Objetivo:** entender como os dispositivos se comunicam e como proteger informações e ambientes digitais.
+
+- [ ] **Dia 8:** IP, rede local, gateway e DHCP. Fazer um desenho simples da rede de casa.
+- [ ] **Dia 9:** DNS: entender como nomes viram endereços. Observar resultados de `ipconfig` e `nslookup` no próprio dispositivo.
+- [ ] **Dia 10:** Wi-Fi, roteador, cabo e sinal. Listar causas prováveis para "sem internet" versus "um aplicativo não abre".
+- [ ] **Dia 11:** Fluxo de diagnóstico: validar conexão, comparar outros sites/dispositivos e registrar horário. Usar `ping` e `tracert` apenas na própria rede.
+- [ ] **Dia 12:** Segurança: senhas únicas, gerenciador de senhas, MFA, phishing e princípio do menor privilégio.
+- [ ] **Dia 13:** Atualizações, antivírus, backup e cuidado com dados. Escrever o que nunca pediria ao cliente (por exemplo, senha ou código MFA).
+- [ ] **Dia 14:** Simulação: internet funciona, mas o SaaS não abre. Registrar hipótese, teste seguro, resultado e quando escalar.
+
+### 🔎 Materiais e referências
+
+1. **DIO:** curso Fundamentos de Redes de Computadores, com conceitos de redes e atividade de revisão.
+2. **DIO:** leitura sobre segurança da informação, atualização e proteção de dispositivos. Tratar como leitura introdutória e validar procedimentos com a política da empresa.
+3. **Microsoft Learn:** visão geral da Segurança do Windows e seus recursos.
+
+---
+
+## 🎧 Semana 3 — Help desk, atendimento e Customer Success
+<sub>📅 Dias 15 a 21</sub>
+
+**Objetivo:** desenvolver habilidades de atendimento, diagnóstico, comunicação e acompanhamento do sucesso do cliente.
+
+- [ ] **Dia 15:** Diferenciar incidente, solicitação e problema. Praticar priorização por impacto e urgência, respeitando o SLA definido pela equipe.
+- [ ] **Dia 16:** Montar um modelo de chamado: resumo, impacto, início do problema, ambiente, passos para reproduzir, tentativas e resultado — sem dados sensíveis.
+- [ ] **Dia 17:** Escrever uma resposta empática e objetiva: reconhecer o impacto, explicar o próximo passo e combinar quando haverá atualização.
+- [ ] **Dia 18:** Triagem e escalonamento: o que investigar no N1, o que registrar e como entregar contexto útil ao próximo time.
+- [ ] **Dia 19:** Suporte SaaS: investigar navegador/sessão, acesso e permissões. Confirmar se afeta uma pessoa ou várias antes de atribuir causa.
+- [ ] **Dia 20:** Customer Success: conectar onboarding, adoção e suporte ao resultado desejado pelo cliente. Conhecer indicadores como CSAT, resolução no primeiro contato e adoção.
+- [ ] **Dia 21:** Praticar dois casos: escrever um ticket interno e uma atualização para o cliente em português claro.
+
+### 🔎 Materiais e referências
+
+1. **DIO:** pesquisar por `SaaS`, `Customer Success`, `atendimento ao cliente` e `service desk`; selecionar aulas adequadas ao nível de conhecimento.
+2. **DIO:** artigo sobre Service Desk e atendimento técnico, como leitura complementar para discutir fluxo de chamados.
+3. **Salesforce:** visão de Customer Success em SaaS e foco no resultado do cliente.
+
+---
+
+## 🧩 Semana 4 — Integração e prática de suporte SaaS
+<sub>📅 Dias 22 a 30</sub>
+
+**Objetivo:** integrar os conhecimentos das semanas anteriores em situações práticas de suporte.
+
+- [ ] **Dia 22:** Simular falha de login: diferenciar credencial, MFA, permissão e indisponibilidade. Nunca pedir senha ou código.
+- [ ] **Dia 23:** Simular lentidão: comparar navegador/dispositivo/rede e impacto em outros usuários. Documentar horário e passos para reproduzir.
+- [ ] **Dia 24:** Simular falha de conectividade: aplicar o checklist de rede e preparar uma atualização curta para o cliente.
+- [ ] **Dia 25:** Simular suspeita de phishing ou exposição de dados: interromper ações arriscadas, preservar evidências permitidas e escalar conforme procedimento.
+- [ ] **Dia 26:** Revisão prática: escolher uma atividade de Linux, uma de Windows e uma de redes. Explicar o que cada evidência indica.
+- [ ] **Dia 27:** Escrever um artigo curto de base de conhecimento: problema, público afetado, passos seguros, resultado esperado e quando abrir chamado.
+- [ ] **Dia 28:** Priorizar três chamados fictícios por impacto/urgência. Justificar a ordem e escrever o primeiro retorno para cada cliente.
+- [ ] **Dia 29:** 🏁 **CAPSTONE:** resolver um caso fictício de cliente sem acesso ao SaaS, do primeiro contato ao escalonamento/solução e confirmação de sucesso.
+- [ ] **Dia 30:** Autoavaliação: revisar as notas, listar três pontos fortes e três lacunas; definir o próximo tema de aprofundamento.
+
+### 🔎 Materiais e referências
+
+1. **DIO:** retomar as buscas com `SaaS`, `service desk`, `redes`, `Linux` e `segurança da informação`; aplicar as aulas escolhidas aos casos simulados.
+2. **DIO:** leitura sobre suporte a usuários em contexto corporativo, útil para praticar orientação sem jargão.
+3. Revisitar o curso de redes e o conteúdo de Segurança do Windows da semana 2 para fundamentar os checklists.
+
+---
+
+# 🏆 Entrega final — Meu pequeno portfólio
+
+Ao concluir os 30 dias, guardar três artefatos, sem utilizar dados reais:
+
+| Entrega | O que desenvolver |
+|---|---|
+| 🌐 Checklist | Triagem de conectividade |
+| 🎫 Modelo | Ticket com atualização ao cliente |
+| 📖 Artigo | Base de conhecimento para um problema SaaS fictício |
+
+Esses exemplos poderão compor um portfólio de aprendizagem e demonstrar a aplicação prática dos conhecimentos adquiridos.
+
+---
+
+## 🔐 Privacidade e personalização
+
+- E-mails e Google Drive não foram consultados nesta versão porque essas integrações não estavam conectadas.
+- O plano utiliza apenas os tópicos fornecidos e referências públicas.
+- Nenhum dado pessoal foi incluído.
+
+---
+
+### 🌱 O que quero levar dessa jornada?
+
+Mais do que aprender a resolver problemas técnicos, quero desenvolver a capacidade de entender o que está acontecendo, investigar com responsabilidade, explicar soluções com clareza e acompanhar o cliente até que ele alcance o resultado esperado.
+
+**Aprender, praticar, documentar e evoluir. Um dia de cada vez!** 🚀

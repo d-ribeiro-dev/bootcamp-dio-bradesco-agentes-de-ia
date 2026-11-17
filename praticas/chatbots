@@ -1,0 +1,86 @@
+# Prática 01 — Descobrindo caminhos na tecnologia
+
+**Formação:** Bradesco — Agentes de IA: do Zero à Prática  
+**Plataforma:** DIO  
+**Etapa:** Chatbots  
+**Objetivo:** Utilizar um chatbot para analisar um perfil profissional e sugerir caminhos de entrada na área de tecnologia.
+
+## 1. Contexto utilizado
+
+Perfil profissional informado:
+
+- Manutenção de smartphones multimarcas e iPhones.
+- Compras e vendas de insumos para lojas.
+- Comercialização de acessórios.
+- Atendimento ao público.
+
+**Disponibilidade para estudos:** 1 hora por dia.
+
+## 2. Prompt original
+
+> Quero entrar na área de tecnologia, estou em transição de carreira e tenho 1h por dia para estudar.
+>
+> Meu background é em manutenção de Smartphones multimarcas e Iphones, com público em geral, compras e vendas.
+>
+> Me ajude a decidir por onde começar. Responda assim:
+>
+> 1. Três áreas que combinam com meu perfil, em ordem de afinidade.
+> 2. Uma sugestão final de qual escolher e o porquê.
+> 3. Cinco tópicos iniciais para estudar nessa área.
+>
+> Use linguagem simples, como se fosse uma conversa com um amigo.
+
+## 3. Resultado gerado pelo chatbot
+
+### Três áreas sugeridas
+
+1. **Suporte técnico e infraestrutura de TI:** aproveita a experiência com diagnóstico, equipamentos e resolução de problemas.
+2. **Desenvolvimento de software:** aproveita o raciocínio lógico e a capacidade de investigar e solucionar problemas.
+3. **Análise de dados:** aproveita a experiência comercial com compras, vendas, estoque e relacionamento com clientes.
+
+### Recomendação inicial do chatbot
+
+Começar por Suporte Técnico e Infraestrutura de TI, por ser a área mais próxima da experiência profissional já adquirida.
+
+### Cinco tópicos iniciais sugeridos
+
+1. Fundamentos de hardware.
+2. Sistemas operacionais.
+3. Redes de computadores.
+4. Segurança da informação.
+5. Atendimento e diagnóstico técnico.
+
+### Organização sugerida para uma hora diária
+
+- 20 minutos de teoria.
+- 25 minutos de prática.
+- 15 minutos de revisão e anotações.
+
+## 4. Minha análise do resultado
+
+A resposta identificou corretamente habilidades transferíveis da minha experiência profissional, principalmente diagnóstico técnico, resolução de problemas, atendimento e conhecimento comercial.
+
+Entretanto, identifiquei outras possibilidades que merecem atenção:
+
+- Automação de processos comerciais e operacionais.
+- Desenvolvimento de soluções com Inteligência Artificial.
+- Análise de dados de vendas, compras e estoque.
+
+Essas possibilidades conectam minha experiência profissional aos conhecimentos que estou desenvolvendo em programação, IA e automações.
+
+A recomendação de suporte técnico é coerente com meu histórico, mas não representa necessariamente o melhor caminho para minha transição. Vale explorar também automação e desenvolvimento de soluções.
+
+## 5. O que observei nesta prática
+
+- Um chatbot consegue organizar informações fornecidas em linguagem natural.
+- A qualidade da resposta depende das informações incluídas no prompt.
+- A experiência profissional pode ser traduzida em habilidades aplicáveis a outras áreas.
+- Uma recomendação inicial não substitui uma análise mais aprofundada dos objetivos profissionais.
+
+## 6. Conclusão
+
+Esta primeira prática mostrou como utilizar um chatbot para explorar possibilidades de carreira a partir de um contexto profissional.
+
+O resultado será utilizado como referência para as próximas atividades, permitindo observar as diferenças entre chatbots, copilotos e agentes de IA.
+
+**Status:** Prática realizada e analisada.
